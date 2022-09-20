@@ -17,13 +17,13 @@ Not from an AI.
 # Useful Repositories: 
 
 
-## [CS402 Android Development - Simple TOTP App] 
+### [CS402 Android Development - Simple TOTP App] 
 
 https://github.com/YeOldeGent/CS402_Final_Project
 
 My role on this project was to ensure a smooth user experience with the UI. 
 
-## [CS361 Introduction to the Theory of Computation - NonDeterministic Finite Automota] 
+### [CS361 Introduction to the Theory of Computation - NonDeterministic Finite Automota] 
 
 https://github.com/YeOldeGent/Nondeterministic_Finite_Automata
 
