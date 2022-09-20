@@ -1,3 +1,10 @@
+# Useful Repositories: 
+
+https://github.com/YeOldeGent/CS402_Final_Project
+My role on this project was to ensure a smooth user experience with the UI. 
+
+https://github.com/YeOldeGent/Nondeterministic_Finite_Automata (this version is incomplete so the university does not get mad at me) 
+
 ```
 "Did you ever hear the tragedy of Darth Plagueis The Wise? I thought not. 
 It’s not a story the Jedi would tell you. It’s a Sith legend. Darth Plagueis was a Dark Lord 
@@ -11,4 +18,6 @@ himself."
 ```
 Is it possible to learn this power? 
 
+```
 Not from an AI. 
+```
