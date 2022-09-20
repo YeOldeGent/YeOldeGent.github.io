@@ -17,7 +17,14 @@ Not from an AI.
 # Useful Repositories: 
 
 
-[CS402 Android Development - Simple TOTP App] (https://github.com/YeOldeGent/CS402_Final_Project) - My role on this project was to ensure a smooth user experience with the UI. 
+## [CS402 Android Development - Simple TOTP App] 
 
-[CS361 Introduction to the Theory of Computation - NonDeterministic Finite Automota] (https://github.com/YeOldeGent/Nondeterministic_Finite_Automata) - This project was a rough one with many complications. Most notibly, avoiding spaghetti code.
-(this version is incomplete so the university does not get mad at me) 
+https://github.com/YeOldeGent/CS402_Final_Project
+
+My role on this project was to ensure a smooth user experience with the UI. 
+
+## [CS361 Introduction to the Theory of Computation - NonDeterministic Finite Automota] 
+
+https://github.com/YeOldeGent/Nondeterministic_Finite_Automata
+
+This project was a rough one with many complications. Most notibly, avoiding spaghetti code.(this version is incomplete so the university does not get mad at me) 
